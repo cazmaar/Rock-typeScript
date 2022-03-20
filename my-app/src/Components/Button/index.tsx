@@ -2,7 +2,6 @@ import React from "react";
 
 interface ButtonProps {
   name: string;
-
   handleClick(): void;
 }
 
